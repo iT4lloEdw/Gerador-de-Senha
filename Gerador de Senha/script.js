@@ -7,7 +7,7 @@ let passoword = document.querySelector("#password");
 
 let containerPassword = document.querySelector("#container-password");
 
-let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@";
+let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@._";
 let novaSenha = "";
 
 sizePassword.innerHTML = sliderElement.value;
