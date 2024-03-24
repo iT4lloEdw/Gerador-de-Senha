@@ -1,2 +1,2 @@
 # Gerador-de-Senha
-Projeto base do Gerador de Senha.
+Projeto base do Gerador de Senha, estudado via aula do Youtube. Front-end em Construção...
